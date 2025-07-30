@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+gunicorn==19.7.1
+scikit-learn==1.2.0
+plotly
+statsmodels==0.14.0
+pandas
+numpy==1.26.4
+
